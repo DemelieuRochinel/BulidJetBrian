@@ -1,0 +1,14 @@
+C:\TestIDE\EnterpriceProject\JetCode\bin\Debug\net10.0\JetCode.exe
+C:\TestIDE\EnterpriceProject\JetCode\bin\Debug\net10.0\JetCode.deps.json
+C:\TestIDE\EnterpriceProject\JetCode\bin\Debug\net10.0\JetCode.runtimeconfig.json
+C:\TestIDE\EnterpriceProject\JetCode\bin\Debug\net10.0\JetCode.dll
+C:\TestIDE\EnterpriceProject\JetCode\bin\Debug\net10.0\JetCode.pdb
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.AssemblyInfoInputs.cache
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.AssemblyInfo.cs
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.csproj.CoreCompileInputs.cache
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.dll
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\refint\JetCode.dll
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.pdb
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\JetCode.genruntimeconfig.cache
+C:\TestIDE\EnterpriceProject\JetCode\obj\Debug\net10.0\ref\JetCode.dll
